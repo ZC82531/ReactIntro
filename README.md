@@ -1,10 +1,10 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Zakaria Chowdhury
 
-This web app: **insert description**
+This web app: Lists Various Planes
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/DXkahgP.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
