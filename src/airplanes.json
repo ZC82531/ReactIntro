@@ -1,0 +1,70 @@
+{
+    "planeInfo": [
+      {
+        "description": "A320",
+        "category": "Airbus",
+        "imageFile": "/src/assets/a320.jpeg",
+        "link": "https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a320-family"
+      },
+      {
+        "description": "A380",
+        "category": "Airbus",
+        "imageFile": "/src/assets/a380.jpeg",
+        "link": "https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a380"
+      },
+      {
+        "description": "A340",
+        "category": "Airbus",
+        "imageFile": "/src/assets/a340.jpeg",
+        "link": "https://www.airbus.com/en/who-we-are/our-history/commercial-aircraft-history/previous-generation-aircraft/a340-family"
+      },
+      {
+        "description": "737",
+        "category": "Boeing",
+        "imageFile": "/src/assets/boeing-737.jpeg",
+        "link": "https://www.boeing.com/commercial/737ng"
+      },
+      {
+        "description": "777",
+        "category": "Boeing",
+        "imageFile": "/src/assets/boeing-777.jpeg",
+        "link": "https://www.boeing.com/commercial/777"
+      },
+      {
+        "description": "G550",
+        "category": "Gulfstream",
+        "imageFile": "/src/assets/g550.jpeg",
+        "link": "https://www.gulfstreamnews.com/en/search/?tag=G550"
+      },
+      {
+        "description": "F-22 Raptor",
+        "category": "Lockheed Martin",
+        "imageFile": "/src/assets/f22.avif",
+        "link": "https://www.lockheedmartin.com/en-us/products/f-22.html"
+      },
+      {
+        "description": "Concorde",
+        "category": "Sud Aviation & British Aircraft Corporation",
+        "imageFile": "/src/assets/concorde.jpeg",
+        "link": "https://www.britishairways.com/content/information/about-ba/history-and-heritage/celebrating-concorde"
+      },
+      {
+        "description": "225",
+        "category": "Antonov",
+        "imageFile": "/src/assets/an225.jpeg",
+        "link": "https://antonov.com/en/history/an-225-mriya"
+      },
+      {
+        "description": "Citation CJ2",
+        "category": "Cessna",
+        "imageFile": "/src/assets/cj2.jpeg",
+        "link": "https://www.cessna-citation.com/en/c525-tech-site/variants/cessna-c525a-citation-cj2"
+      },
+      {
+        "description": "Tu-104",
+        "category": "Tupolev",
+        "imageFile": "/src/assets/tu104.png",
+        "link": "https://planehistoria.com/tupolev-tu-104/"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+.card-image {
+    width: 99%;
+    height: 150px; 
+    object-fit: cover; 
+    overflow: hidden; 
+}
+
+.Card {
+    text-align: center;
+    background-color: rebeccapurple;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    margin: 10px;
+}
